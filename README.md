@@ -1,6 +1,7 @@
 # awesome-jam-stack
 ### VueJS Frameworks
 - [NuxtJS](https://github.com/nuxt/nuxt.js)
+- [VueDeck](https://github.com/localeai/vue-deck.gl)
 
 ### ReactJS Frameoworks
 - [Uber Base Web](https://github.com/uber/baseweb)
@@ -16,3 +17,4 @@
 ### Sites Built with JAMs
 - [Proxx](https://github.com/GoogleChromeLabs/proxx)
 - [Tinker Synth](https://github.com/joshwcomeau/tinkersynth)
+- [Corona Virus Live Visualization](https://github.com/localeai/covid19-live-visualization)
