@@ -12,7 +12,7 @@
 - [Bulma CSS](https://github.com/jgthms/bulma)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-### Microservices Frameoworks
+### Microservices Frameworks
 - [Netlify Functions](https://github.com/netlify/functions)
 - [Serverless](https://github.com/serverless/serverless)
 
