@@ -1,4 +1,5 @@
 # awesome-jam-stack
+
 ### VueJS Frameworks
 - [NuxtJS](https://github.com/nuxt/nuxt.js)
 - [VueDeck](https://github.com/localeai/vue-deck.gl)
@@ -11,9 +12,12 @@
 - [Bulma CSS](https://github.com/jgthms/bulma)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-### Microservices
+### Microservices Frameoworks
 - [Netlify Functions](https://github.com/netlify/functions)
 - [Serverless](https://github.com/serverless/serverless)
+
+### Microservices Functions
+- [Netlify Mongodb GraphQL](https://github.com/akshayymahajan/netlify-functions-mongodb-graphql)
 
 ### Sites Built with JAMs
 - [Proxx](https://github.com/GoogleChromeLabs/proxx)
