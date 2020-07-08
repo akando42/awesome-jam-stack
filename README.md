@@ -9,6 +9,7 @@
 
 ### CSS Frameworks
 - [Bulma CSS](https://github.com/jgthms/bulma)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ### Microservices
 - [Netlify Functions](https://github.com/netlify/functions)
