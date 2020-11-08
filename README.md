@@ -3,6 +3,7 @@
 ### VueJS Frameworks
 - [NuxtJS](https://github.com/nuxt/nuxt.js)
 - [VueDeck](https://github.com/localeai/vue-deck.gl)
+- [Vuetify](https://github.com/vuetifyjs/vuetify)
 
 ### ReactJS Frameoworks
 - [Uber Base Web](https://github.com/uber/baseweb)
