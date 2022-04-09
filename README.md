@@ -1,5 +1,10 @@
 # awesome-jam-stack
 
+### NextJS
+- [JAM stack E-Commerce](https://github.com/jamstack-cms/jamstack-ecommerce)
+- [Full Stack NextJS E-Commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce)
+- [Sanity NextJS Ecommerce](https://github.com/sanity-io/sanity-template-nextjs-ecommerce)
+
 ### VueJS Frameworks
 - [NuxtJS](https://github.com/nuxt/nuxt.js)
 - [VueDeck](https://github.com/localeai/vue-deck.gl)
