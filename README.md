@@ -5,6 +5,9 @@
 - [Full Stack NextJS E-Commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce)
 - [Sanity NextJS Ecommerce](https://github.com/sanity-io/sanity-template-nextjs-ecommerce)
 
+### GatsbyJS
+- [SEO Friendly Blog Theme](https://github.com/justinformentin/gatsby-v2-tutorial-starter)
+
 ### VueJS Frameworks
 - [NuxtJS](https://github.com/nuxt/nuxt.js)
 - [VueDeck](https://github.com/localeai/vue-deck.gl)
