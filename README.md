@@ -7,6 +7,7 @@
 
 ### GatsbyJS
 - [SEO Friendly Blog Theme](https://github.com/justinformentin/gatsby-v2-tutorial-starter)
+- [Netlify CMS ](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
 
 ### VueJS Frameworks
 - [NuxtJS](https://github.com/nuxt/nuxt.js)
