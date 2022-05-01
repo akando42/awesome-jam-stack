@@ -29,6 +29,9 @@
 ### Microservices Functions
 - [Netlify Mongodb GraphQL](https://github.com/akshayymahajan/netlify-functions-mongodb-graphql)
 
+### Frontend Performance 
+- [The Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+
 ### Sites Built with JAMs
 - [Proxx](https://github.com/GoogleChromeLabs/proxx)
 - [Tinker Synth](https://github.com/joshwcomeau/tinkersynth)
