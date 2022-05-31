@@ -6,6 +6,9 @@
 - [Sanity NextJS Ecommerce](https://github.com/sanity-io/sanity-template-nextjs-ecommerce)
 - [NextJS Electron Desktop App](https://github.com/saltyshiomix/nextron)
 
+### ElectronJS
+- [Nextron](https://github.com/saltyshiomix/nextron/tree/main/examples) - NextJS Rendering for Electron App
+
 ### GatsbyJS
 - [SEO Friendly Blog Theme](https://github.com/justinformentin/gatsby-v2-tutorial-starter)
 - [Netlify CMS ](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
