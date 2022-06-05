@@ -1,5 +1,8 @@
 # awesome-jam-stack
 
+### JS Ultilities
+- [PRISM JS](https://prismjs.com/) - Lightweight, extensible code syntax highlighter.
+
 ### NextJS
 - [JAM stack E-Commerce](https://github.com/jamstack-cms/jamstack-ecommerce)
 - [Full Stack NextJS E-Commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce)
