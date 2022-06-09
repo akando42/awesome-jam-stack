@@ -2,6 +2,7 @@
 
 ### JS Ultilities
 - [PRISM JS](https://prismjs.com/) - Lightweight, extensible code syntax highlighter.
+- [ARES CLI](https://github.com/webosose/ares-cli) - Package apps for WebOS TV, LG TV.
 
 ### NextJS
 - [JAM stack E-Commerce](https://github.com/jamstack-cms/jamstack-ecommerce)
